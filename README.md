@@ -1,4 +1,4 @@
-Overview of the Data
+
 Spotify, a global leader in music streaming services, with a dynamic presence across social platforms such as Instagram, Twitter, Facebook, and YouTube. 
 Over the past year, Spotify has launched multiple music-driven campaigns and artist collaborations to grow its listener base, promote new features 
 like podcasts and wrapped, and strengthen its digital brand identity.
