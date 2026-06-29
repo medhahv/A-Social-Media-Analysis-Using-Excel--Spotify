@@ -3,7 +3,7 @@ Spotify, a global leader in music streaming services, with a dynamic presence ac
 Over the past year, Spotify has launched multiple music-driven campaigns and artist collaborations to grow its listener base, promote new features 
 like podcasts and wrapped, and strengthen its digital brand identity.
 
-The Goal and objective is too
+The Goal and Objective 
 1. Which content types and artists drive the most engagement?
 2. Where to allocate advertising budget effectively?
 3. What influences follower growth and app downloads?
