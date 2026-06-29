@@ -27,6 +27,7 @@ Details of Spotify’s major campaigns (e.g.,ChillVibes,Wrapped 2024 etc), inclu
 dates and objectives.
 
 Tasks performed
+
 Step 1-  Data Preprocessing and Cleaning 
 Step 2-  Engagement Analysis
 Step 3-  Platform Performance Analysis
