@@ -13,6 +13,7 @@ Build a comprehensive Social Media Intelligence Solution in Excel that consolida
 to enhance content strategy, optimize platform investments, and evaluate campaign success.
 
 Datasets used
+
 Posts Dataset
 Includes details of social media posts across platforms (e.g., platform, post type, artist tag, likes,
 comments, shares, impressions, hashtags).
@@ -32,5 +33,14 @@ Step 3-  Platform Performance Analysis
 Step 4-  Hashtag & Content Strategy
 Step 5-  Campaign Effectiveness
 Step 6-  Follower Retention & Loyalty
+
+Various Excel formulas used such as SUMIF,MAX , INDEX,MATCH ,PIVOT TABLES , VISUALIZATION TOOL SUCH AS CHARTS,GRAPHS, TREND LINE .
+
+A short Summary Insights of the project are-
+1. Twitter is the strongest engagement and growth channel.
+2. Youtube offers high potential but needs retention tactics
+3. Instagram requires a shift toward Reels and partnerships.
+4. Budget should follow ROI , not impressions
+
 
 
